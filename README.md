@@ -1,1 +1,1 @@
-Due to file size limitations, the time analysis data is divided into three parts.
+Due to file size limitations, the temporal analysis data is divided into three parts.
